@@ -1,0 +1,14 @@
+Order ID,Order Date,Customer Name,Category,Product,Region,Sales,Profit
+CA-001,2024-01-05,Aarav,Technology,Laptop,South,65000,9000.0
+CA-002,2024-01-08,Diya,Furniture,Chair,West,12000,1800.0
+CA-003,2024-01-12,Kabir,Office Supplies,Notebook,East,850,120.0
+CA-004,2024-01-15,,Technology,Mouse,South,2500,450.0
+CA-005,2024-02-02,Rohan,Furniture,Table,North,18000,2500.0
+CA-006,2024-02-10,Meera,Office Supplies,Pens,West,600,100.0
+CA-007,2024-02-18,Arjun,Technology,Monitor,East,22000,4200.0
+CA-008,2024-03-01,Ishita,Furniture,Bookcase,South,9500,900.0
+CA-009,2024-03-08,Vihaan,Office Supplies,Paper,North,1200,
+CA-010,2024-03-15,Sara,Technology,Keyboard,West,3500,700.0
+CA-011,2024-03-20,Aditya,Furniture,Desk,East,15000,2100.0
+CA-012,2024-03-25,Nisha,Office Supplies,Folders,South,900,150.0
+CA-002,2024-01-08,Diya,Furniture,Chair,West,12000,1800.0
