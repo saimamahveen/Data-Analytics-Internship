@@ -29,4 +29,4 @@ To transform raw sales data into a clear and interactive dashboard that helps id
 - Business insights generation
 - ## Dashboard Preview
 
-![Sales Dashboard](dashboard.png)
+![Sales Dashboard](Sales dashboard.jpeg)
