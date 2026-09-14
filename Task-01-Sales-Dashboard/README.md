@@ -27,6 +27,4 @@ To transform raw sales data into a clear and interactive dashboard that helps id
 - Dashboard creation
 - Data visualization
 - Business insights generation
-- ## Dashboard Preview
-
-![Sales Dashboard](Sales dashboard.jpeg)
+  ![Sales Dashboard](Sales%20dashboard1.jpeg)
